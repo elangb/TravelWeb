@@ -2,7 +2,7 @@
 ## 🚣‍♂️ Travel Web
 
 - Travel Web Using HTML CSS & JavaScript
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Developed first with the Desktop First methodology, then for Mobile.
+- Compatible with all dekstop devices and with a beautiful and pleasant user interface.
 
 ![preview img](/preview-travelweb.png)
