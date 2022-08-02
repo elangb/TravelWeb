@@ -1,5 +1,5 @@
 # 🚣‍♂️ Travel Web
-## 🌿 Travel Web
+## 🚣‍♂️ Travel Web
 
 - Travel Web Using HTML CSS & JavaScript
 - Developed first with the Mobile First methodology, then for desktop.
